@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: REALTIME: an NSF RINGS project
+title: REALTIME @ Rutgers WINLAB (an NSF RINGS project)
 baseURL: 'https://realtime-rutgers.github.io/' # Website URL
 
 ############################
