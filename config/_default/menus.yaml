@@ -5,7 +5,7 @@
 
 main:
   - name: Projects
-    url: projects
+    url: post
     weight: 10
   - name: News
     url: post
@@ -15,4 +15,4 @@ main:
     weight: 30
   - name: Publications
     url: publication
-    weight: 40	
+    weight: 40
