@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Rutgers WINLAB
+        REALTIME Research Project
       image:
-        filename: welcome.jpg
+        filename: venndiagram.png
       text: |
         <br>
         
