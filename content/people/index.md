@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: people
+  - block: collection
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -23,4 +23,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      view: card
 ---
