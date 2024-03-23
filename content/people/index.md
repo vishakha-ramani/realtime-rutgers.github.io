@@ -9,6 +9,9 @@ sections:
     id: people
     content:
       title: Meet the Team
+      count: 0
+      offset: 0
+      sort_by: 'order'
       user_groups:
           - Principal Investigators
           - Researchers
@@ -24,3 +27,4 @@ sections:
       show_social: true
       view: card
 ---
+##
