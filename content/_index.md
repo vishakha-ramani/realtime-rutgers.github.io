@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        This project is about developing frameworks for real-time operation, online decision-making, and offline training of ML-based applications that must be resilient to data, application, user, and system changes.
   
   - block: collection
     content:
@@ -38,7 +38,7 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: Projects
       subtitle: ''
       text:
     design:
