@@ -11,7 +11,7 @@ sections:
       title: Meet the Team
       filters:  
       	  folders:
-      	     - people
+      	     - post
          tag: ''
          category: ''
          publication_type: ''
