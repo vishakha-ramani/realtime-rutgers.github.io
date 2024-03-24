@@ -12,6 +12,7 @@ sections:
     offset: 0
     sort_by: role
     show_date: false
+    sort_ascending: false
     design:
       view: card
       columns: '2'
