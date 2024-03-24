@@ -28,5 +28,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      view: card
+      columns: 2
 ---
 ##
