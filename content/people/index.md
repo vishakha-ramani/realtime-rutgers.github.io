@@ -5,24 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: collection
-    id: people
+  - block: people
     content:
       title: Meet the Team
-      filters:   
-      	  folders:
-      	     - post
-         tag: ''
-         category: ''
-         publication_type: ''
-         author: ''
-     	  featured_only: false
-         exclude_featured: false
-         exclude_future: false
-         exclude_past: false
-      count: 0
-      offset: 0
-      sort_by: 'role'
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Principal Investigators
+          - Researchers
+          - Grad Students
+          - Administration
+          - Visitors
+          - Alumni
+      sort_by: Params.last_name
       sort_ascending: true
     design:
       show_interests: false
