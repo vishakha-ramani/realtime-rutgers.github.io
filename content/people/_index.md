@@ -11,9 +11,9 @@ sections:
         - people
     offset: 0
     sort_by: 'role'
+    show_date: false
     design:
       view: card
       columns: '2'
-      show_date: false
 
 ---
