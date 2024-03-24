@@ -2,7 +2,8 @@
 title: Waheed Bajwa
 role: '1'
 date: ''
-image: 'winlab.jpg'
+image: 
+  filename: 'winlab.jpg'
 
 type: landing
 ---
