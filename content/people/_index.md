@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Meet the team
 
 sections:
   - block: collection
