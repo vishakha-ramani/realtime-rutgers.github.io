@@ -14,5 +14,6 @@ sections:
     design:
       view: card
       columns: '2'
+      show_date: false
 
 ---

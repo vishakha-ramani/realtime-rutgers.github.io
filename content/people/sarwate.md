@@ -1,6 +1,9 @@
 ---
 title: Anand Sarwate
+role: '1'
 date: 2022-10-24
+image: 
+  filename: 'sarwate.jpg'
 
 type: landing
 ---
