@@ -6,13 +6,13 @@ sections:
     id: people
     content:
       title: Meet the Team
+      sort_by: role
+      sort_ascending: false
     filters:
       folders:
         - people
     offset: 0
     sort_by: role
-    show_date: false
-    sort_ascending: false
     design:
       view: card
       columns: '2'
