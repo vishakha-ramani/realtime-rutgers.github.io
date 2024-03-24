@@ -1,7 +1,7 @@
 ---
 title: Anand Sarwate
 role: '3'
-date: 2022-10-24
+show_date: false
 image: 
   filename: 'sarwate.jpg'
 

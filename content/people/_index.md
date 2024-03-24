@@ -10,7 +10,7 @@ sections:
       folders:
         - people
     offset: 0
-    sort_by: 'role'
+    sort_by: role
     show_date: false
     design:
       view: card
