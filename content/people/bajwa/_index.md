@@ -1,6 +1,5 @@
 ---
 title: Waheed Bajwa
-role: 1
 
 # Listing view
 view: compact
