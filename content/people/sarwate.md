@@ -1,6 +1,6 @@
 ---
 title: Anand Sarwate
-role: '3'
+role: 3
 show_date: false
 image: 
   filename: 'sarwate.jpg'

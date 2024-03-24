@@ -1,6 +1,6 @@
 ---
 title: Waheed Bajwa
-role: '2'
+role: 2
 show_date: false
 image: 
   filename: 'bajwa.jpg'
