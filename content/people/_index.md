@@ -13,5 +13,6 @@ sections:
     sort_by: 'role'
     design:
       view: card
+      columns: '2'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Waheed Bajwa
 role: '1'
-date: ''
+show_date: false
 image: 
   filename: 'winlab.jpg'
 
