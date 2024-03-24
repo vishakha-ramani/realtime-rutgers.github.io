@@ -3,8 +3,6 @@ title: ''
 
 # Listing view
 view: compact
-
-# Banner image from assets/media/
   
 sections:
   - block: collection
