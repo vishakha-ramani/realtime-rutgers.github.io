@@ -2,7 +2,7 @@
 title: Research projects 
 
 # Listing view
-view: card
+view: compact
 
 banner:
   caption: ''
