@@ -9,7 +9,7 @@ sections:
     id: people
     content:
       title: Meet the Team
-      filters:  
+      filters:'    
       	  folders:
       	     - post
          tag: ''
