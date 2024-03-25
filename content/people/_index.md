@@ -1,23 +1,23 @@
 ---
-title: Meet the team
+title: People
+date: 2024-03-25
+
 type: landing
 
 sections:
-  - block: collection
-    id: people
+  - block: people
     content:
       title: Meet the Team
-      sort_by: role
-      sort_ascending: false
-      filters:
-        folders:
-          - people
-        featured_only: false
-        exclude_featured: false
-      offset: 0
-      sort_by: 'role'
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - PI
+          - Graduate Student
+          - Undergraduate Student
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      view: card
-      columns: '2'
-
+      show_interests: false
+      show_role: true
+      show_social: true
 ---
