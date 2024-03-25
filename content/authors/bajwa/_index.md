@@ -10,7 +10,7 @@ last_name: Bajwa
 superuser: true
 
 ##### Role/position
-role: PI
+role: Professor
 
 ##### Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 ##### Organizational groups that you belong to (for People widget)
 #####   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 
 [Waheed U. Bajwa](http://www.inspirelab.us/), Co-PI, [waheed.bajwa@rutgers.edu](mailto:waheed.bajwa@rutgers.edu) is a Professor in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu) His research interests include statistical signal processing, high-dimensional statistics, machine learning, harmonic analysis, inverse problems, and networked systems.

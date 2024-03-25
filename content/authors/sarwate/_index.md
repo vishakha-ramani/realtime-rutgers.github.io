@@ -10,7 +10,7 @@ last_name: Sarwate
 superuser: true
 
 ##### Role/position
-role: PI
+role: Associate Professor
 
 ##### Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 ##### Organizational groups that you belong to (for People widget)
 #####   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 
 [Anand D. Sarwate](https://adsarwate.github.io/) (PI) is an Associate Professor in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu). 

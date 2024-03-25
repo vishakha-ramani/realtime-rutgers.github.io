@@ -10,7 +10,7 @@ last_name: Yates
 superuser: false
 
 ##### Role/position
-role: PI
+role: Distinguished Professor
 
 ##### Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 ##### Organizational groups that you belong to (for People widget)
 #####   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 
 [Dipankar Raychaudhuri](https://www.ece.rutgers.edu/dipankar-raychaudhuri) (PI) is a Distinguished Professor (Emeritus) in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu). Prof. Yates received the B.S.E. degree in 1983 from Princeton and the S.M. and Ph.D. degrees in 1986 and 1990 from MIT, all in Electrical Engineering. He joined Rutgers and [Wireless Information Networks Laboratory (WINLAB)](https://winlab.rutgers.edu/) in 1990. He is an author (with David Goodman) of Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers published by John Wiley and Sons, currently in its third edition. He is a 2011 IEEE Fellow and a recipient of the 2003 IEEE Marconi Prize Paper Award in Wireless Communications, the best paper award for the ICC 2006 Wireless Communications Symposium, and the 2011 Rutgers University Teacher-Scholar award. 

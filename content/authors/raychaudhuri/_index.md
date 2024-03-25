@@ -10,7 +10,7 @@ last_name: Raychaudhuri
 superuser: false
 
 ##### Role/position
-role: PI
+role: Distinguished Professor
 
 ##### Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 ##### Organizational groups that you belong to (for People widget)
 #####   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 
 [Dipankar Raychaudhuri](https://www.ece.rutgers.edu/dipankar-raychaudhuri) (PI) is a Distinguished Professor in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu). Dr. Raychaudhuri is a leading researcher/technologist in the field of wireless networking based on his sustained technology contributions and leadership over the past 38 years. He is acknowledged as a pioneer who helped bring broadband wireless access technology from concept to reality in the 1990s. This is a technology domain (high speed WLAN, WiMax, etc.) which has made it possible for hundreds of millions of people connect to the Internet. Prof. Raychaudhuri is also recognized today in the US academic research community as a forward-looking network architect who is leading National Science Foundation supported R&D initiatives to innovate the future mobile Internet from a "clean slate" perspective (FIA), and to develop open, programmable wireless and network testbeds (ORBIT, GENI and COSMOS).  He was the Director of [Rutgers WINLAB](https://winlab.rutgers.edu/) for over 2 decades, where he led development of an internationally acclaimed academic research center specializing in wireless technology, and in this capacity plays a visible leadership role in advancing basic research and education in the field. 
