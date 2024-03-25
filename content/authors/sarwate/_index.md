@@ -51,7 +51,7 @@ social:
 #####    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: hhttps://scholar.google.com/citations?user=jgr1-eEAAAAJ
+    link: https://scholar.google.com/citations?user=jgr1-eEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/adsarwate
@@ -70,7 +70,7 @@ highlight_name: false
 ##### Organizational groups that you belong to (for People widget)
 #####   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PI
+  - Principal Investigator
 ---
 
 [Anand D. Sarwate](https://adsarwate.github.io/) (PI) is an Associate Professor in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu) at [Rutgers, The State University of New Jersey](https://www.rutgers.edu). 
