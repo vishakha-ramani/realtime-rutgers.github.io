@@ -57,7 +57,7 @@ highlight_name: false
 
 ##### Organizational groups that you belong to (for People widget)
 user_groups:
-  - Principal Investigator
+  - Graduate Student
 ---
 
 Bio forthcoming.
