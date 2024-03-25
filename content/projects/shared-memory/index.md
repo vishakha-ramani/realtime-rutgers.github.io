@@ -1,6 +1,7 @@
 ---
 title: Timeliness in shared-memory updating systems
 date: 2024-03-23
+show_date: false
 ---
 
 **Researchers:** Vishakha Ramani, Jiachen Chen, Roy D. Yates

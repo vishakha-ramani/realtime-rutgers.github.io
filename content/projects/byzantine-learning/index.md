@@ -1,6 +1,7 @@
 ---
 title: Robust and resilient decentralized training of ML models
 date: 2024-03-23
+show_date: false
 ---
 
 **Researchers:** Cheng Fang, Waheed U. Bajwa
