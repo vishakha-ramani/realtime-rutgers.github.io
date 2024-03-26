@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: ''
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/vishakha-ramani/
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
