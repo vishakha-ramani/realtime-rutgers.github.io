@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 ##### Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: Vishakha Ramani is a doctoral candidate in the ECE department at Rutgers University, working with Professor Roy D. Yates at the Wireless Information Network Laboratory (WINLAB).  Her research is on modeling, analysis and design of real-time status updating systems with an emphasis on using the Age-of-Information (AoI) as a performance metric of interest.  In addition to her doctoral studies, Vishakha also took on the role of Summer 2023 and Summer 2022 IBM Research Intern. 
 
 #####
 ##### interests:
