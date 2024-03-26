@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'cf446@soe.rutgers.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: ''
+    link: 'https://scholar.google.com/citations?hl=en&user=goH8dP0AAAAJ'
   - icon: github
     icon_pack: fab
-    link: ''
+    link: 'https://github.com/fangchengpeter'
 
 ##### Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -60,4 +60,4 @@ user_groups:
   - Graduate Students
 ---
 
-Bio forthcoming.
+Cheng Fang received the B.S. degree in electrical engineering from Rutgers University-New Brunswick, New Brunswick, NJ, USA, in 2017, and the M.S.degree in electrical engineering from the University of California-Los Angles, Los Angeles, CA, USA,in 2018. He is currently working toward the Ph.D. degree with Rutgers University. His research interests include distributed machine learning and robust machine learning.
